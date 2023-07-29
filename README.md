@@ -35,13 +35,14 @@ There were no statistically significant differences between the recurrent and no
 
 # Network
 
-![](img/network.png)
+![img/network.png](https://anothertechs.com/static/9705aa72b03e412c9b5cacc68119c2b7/0fdde/resnet-arch.webp)
+
 
 # Results and Model Comparison for Recurrence Prediction of Epilepsy
 
 ![](https://picdl.sunbangyan.cn/2023/07/20/1157v3n.png)
 
-![](https://picdm.sunbangyan.cn/2023/07/20/115twwr.jpg)
+
 
 # Install
 
